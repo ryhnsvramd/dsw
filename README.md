@@ -1,4 +1,4 @@
-<p align="center"><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/ryhnsvramd/dsw/main/img/logo.png" width="400"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/ryhnsvramd/dsw/main/img/logo.png" width="250"></a></p>
 
 ## About Depok Single Window
 
